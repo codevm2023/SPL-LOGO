@@ -1,0 +1,9 @@
+{
+  "name": "AI 2025 Token",
+  "symbol": "AIT",
+  "description": "This is my custom SPL token on Solana.",
+  "image": "https://github.com/codevm2023/SPL-LOGO/blob/main/Angell%20It%20Logo%20(1).jpg",
+  "attributes": [
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ]
+}
